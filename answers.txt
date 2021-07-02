@@ -1,0 +1,16 @@
+Test 1 : Water Bottle
+
+Wolfram - Bottled Water (Wrong)
+MobileNet - Microphone (Wrong)
+
+
+Test 2 : Ruler
+
+Wolfram - Rule (Wrong)
+MobileNet - Shovel (Wrong)
+
+
+Test 3 : Pen
+
+Wolfram - Refractometer (Wrong)
+MobileNet - File (Wrong)
